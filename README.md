@@ -1,5 +1,4 @@
 # Cybersecutity-Journey-
-
 ROADMAP:
 Month 1-2: CISCO CyberOps - learning from my teacher + TryHackMe + completing my homework - basic SOC knowledge!
 Month 3-4: inputing my codes & work in GitHub + turning this account into a solid proof of my knowledge - making a public profile!
